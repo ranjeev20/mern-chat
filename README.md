@@ -76,9 +76,13 @@ Start the Client
 
 
 ### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+
+![image](https://user-images.githubusercontent.com/91145878/206861387-3f697a83-38ae-4cf8-9a10-934c1e89b659.png)
+
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+
+![image](https://user-images.githubusercontent.com/91145878/206861425-f5912d7d-ec0b-41e0-9522-b64ca2343146.png)
+
 ### View Other user Profile
 ![image](https://user-images.githubusercontent.com/91145878/206858498-9f5dd2e2-8fbe-411e-adb3-a63ff5f22b86.png)
 ## Made By
