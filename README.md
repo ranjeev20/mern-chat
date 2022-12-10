@@ -65,11 +65,15 @@ Start the Client
 ![image](https://user-images.githubusercontent.com/91145878/206861107-de4cc749-bb2d-4927-a72e-6203790acf9f.png)
 
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![image](https://user-images.githubusercontent.com/91145878/206861178-9f6de4b8-b291-478b-8cdd-b2bc3f561745.png)
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+
+![image](https://user-images.githubusercontent.com/91145878/206861200-7798f546-ba4b-4ea4-8801-c0fa3653c2b8.png)
+
 ### Create Group Chats
-![image](https://user-images.githubusercontent.com/91145878/206858023-d014b316-6370-4ec9-aca4-33674f9a40d8.png)
+
+![image](https://user-images.githubusercontent.com/91145878/206861245-aac8d51f-32b9-4bf0-8691-e0ddbcf15b52.png)
+
 
 ### Notifications 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
